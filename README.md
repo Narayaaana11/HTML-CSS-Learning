@@ -1,2 +1,3 @@
-# HTML-CSS-Learning
-This repo give you the my progress of HTML CSS 
+# LEARNING HTML & CSS
+
+This repository contains my practice projects while I learn HTML and CSS. Each folder showcases a small project, experiment, or layout I’ve built to improve my front-end skills.
